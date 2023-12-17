@@ -1,4 +1,4 @@
-# Chatbot-Music-Recommendation-System
+# Chatbot-Music-Recommendation-System using Sentiment Analysis
 A mini project that recommends songs based on the mood of the user
 
 
