@@ -52,7 +52,7 @@ emotion = pipeline('sentiment-analysis', model=model, tokenizer=tokenizer)
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("CHATBOT.html")
 
 
 # @app.route("/",methods=['POST'])
